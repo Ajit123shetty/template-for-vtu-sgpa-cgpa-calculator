@@ -1,1 +1,2 @@
-# template-for-vtu-sgpa-cgpa-calculator
+# VTU-SGPA-CGPA-CALCULATOR
+WEB DEVELOPMENT INTERNSHIP PROJECT
